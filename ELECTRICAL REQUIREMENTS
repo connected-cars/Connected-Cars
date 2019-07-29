@@ -1,0 +1,3 @@
+-	Sensors: Ultasonic, Image Processing, LIDAR or radar. 
+-	DC Motor: For the movement of the vehicle. 
+-	Microcontroller: Arduino, Raspberry Pi, can be designed by ourselves. 
